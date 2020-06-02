@@ -1,0 +1,11 @@
+**/*.tar
+**/*.pth
+**/results
+**/__pycache__
+**/*.pyc
+.idea
+**/*.pyd
+**/*.pyx
+**/*.pxd
+**/*.c
+**/*.h
